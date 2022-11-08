@@ -11,21 +11,20 @@ class InfoAccountTest {
     @Test
     void checkBalance() throws IOException {
         var accountManager = new InfoAccount();
-        assertEquals(1, accountManager.checkBalance());
+        assertNotEquals((Float) null, accountManager.checkBalance());
     }
 
     @Test
-    void didWithdrawUpdateAccountInfo() throws IOException {
+    void didDepositUpdateAccountInfo() throws IOException {
         var accountManager = new InfoAccount();
-        assertEquals( 0, accountManager.updateAccountBalance("withdraw", 1000, 1000));
-
+        assertEquals( 2000, accountManager.updateAccountBalance("deposit", 2000, 2000));
     }
 
     @Test
     void didUpdateAccountInfo() throws IOException {
         var accountManager = new InfoAccount();
         accountManager.updateAccountBalance("withdraw", 1000, 1000);
-        assertEquals(0, accountManager.checkBalance());
+        assertEquals(1000, accountManager.checkBalance());
     }
 
 }

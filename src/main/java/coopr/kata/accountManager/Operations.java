@@ -72,7 +72,6 @@ public class Operations extends Main {
         //implement business logic here to check cash deposit
         if(depositAmount <= 0) {
             System.out.println("Incorrect deposit, back to home");
-            workflowSelection();
             return 1;
         }
         return 0;

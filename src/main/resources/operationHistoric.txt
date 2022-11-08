@@ -1,1 +1,45 @@
 
+Date : 2022/11/08 15:16:34
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:16:34
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:18:37
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:18:37
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:21:59
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:21:59
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:22:29
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:22:29
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:22:57
+deposit 1000.0 euros.
+Date : 2022/11/08 15:22:57
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:23:21
+deposit 1000.0 euros.
+Date : 2022/11/08 15:23:21
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:23:47
+deposit 1000.0 euros.
+Date : 2022/11/08 15:23:47
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:24:20
+deposit 1000.0 euros.
+Date : 2022/11/08 15:24:20
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:25:17
+deposit 2000.0 euros.
+Date : 2022/11/08 15:25:17
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:25:28
+deposit 2000.0 euros.
+Date : 2022/11/08 15:25:28
+withdraw 1000.0 euros.
+Date : 2022/11/08 15:25:35
+deposit 2000.0 euros.
+Date : 2022/11/08 15:25:35
+withdraw 1000.0 euros.
